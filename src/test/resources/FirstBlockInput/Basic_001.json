@@ -1,0 +1,17 @@
+{
+  "someVal": 123,
+  "someList": [
+    {
+      "id": 1,
+      "status": "a"
+    },
+    {
+      "id": 2,
+      "status": "b"
+    },
+    {
+      "id": 3,
+      "status": "c"
+    }
+  ]
+}
